@@ -7,7 +7,7 @@ nltk==3.3
 tqdm
 seqeval 
 transformers==3.0.2
-sentencepiece==0.1.85
+sentencepiece==0.1.95
 mxnet
 gluonnlp==0.9.1
 scikit-learn>=0.19.1    # package name registered in PyPI.org
@@ -16,7 +16,7 @@ gensim
 xgboost
 wget==3.2
 tokenizers==0.8.1.rc1
-tensorflow==2.2.0
+tensorflow==2.0.0
 h5py<3.0.0              # to avoid issue https://github.com/keras-team/keras/issues/14265
 konlpy
 beautifulsoup4
